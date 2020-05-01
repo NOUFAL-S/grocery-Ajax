@@ -1,0 +1,102 @@
+ [{
+         "Item no": "1",
+         " Name": "Sugar",
+         "Quantity": "5 kg",
+         "Department": "Food",
+         "Unit": "1",
+
+         "Note": "High Quality"
+
+     },
+     {
+         "Item no": "2",
+         " Name": "Idli rice ",
+         "Quantity": "7 kg",
+         "Department": "Food",
+         "Unit": "1",
+
+         "Note": "High Quality"
+
+     },
+     {
+         "Item no": "3",
+         " Name": "Basmati rice",
+         "Quantity": "6 kg",
+         "Department": "Food",
+         "Unit": "1",
+
+         "Note": "High Quality"
+
+     },
+     {
+         "Item no": "4",
+         " Name": "Toor dal",
+         "Quantity": "1 kg",
+         "Department": "Dals",
+         "Unit": "1",
+
+         "Note": "High Quality"
+
+     },
+     {
+         "Item no": "5",
+         " Name": "Red chilli powder ",
+         "Quantity": "0.5 kg",
+         "Department": "SPICE POWDERS",
+         "Unit": "1",
+
+         "Note": "High Quality"
+
+     },
+     {
+         "Item no": "6",
+         " Name": "Garam masala powder",
+         "Quantity": "0.5 kg",
+         "Department": "SPICE POWDERS",
+         "Unit": "2",
+
+         "Note": "High Quality"
+
+     },
+     {
+         "Item no": "7",
+         " Name": "Tea powder",
+         "Quantity": "0.5 kg",
+         "Department": "SPICE POWDERS",
+         "Unit": "2",
+
+         "Note": "High Quality"
+
+     },
+     {
+         "Item no": "8",
+         " Name": "Cooking oil",
+         "Quantity": "2 lt",
+         "Department": "Oil",
+         "Unit": "1",
+
+         "Note": "High Quality"
+
+     },
+     {
+         "Item no": "9",
+         " Name": "Tooth paste",
+         "Quantity": "200 g",
+         "Department": "TOILETRIES ",
+         "Unit": "3",
+
+         "Note": "High Quality"
+
+     },
+     {
+         "Item no": "10",
+         " Name": "Washing powder",
+         "Quantity": "2 kg",
+         "Department": "CLEANING PRODUCTS ",
+         "Unit": "1",
+
+         "Note": "High Quality"
+
+
+     }
+ ]
